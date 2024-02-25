@@ -1,0 +1,241 @@
+add|58|The Humans|Matt Haig|Science Fiction
+print
+add|14|Stuff They Don't Want You to Know|Ben Bowlin|History
+print
+add|16|How to Take Over the World|Ryan North|Non-fiction
+print
+add|6|Hacking: The Art of Exploitation w/CD|Jon Erickson|Non-fiction
+print
+add|13|The Temple of the Golden Pavilion|Yukio Mishima|Classics
+print
+add|42|The Last Wish|Andrzej Sapkowski|Fantasy
+print
+add|60|Watchmen|Alan Moore|Graphic Novel
+print
+add|36|The Thought Gang|Tibor Fischer|Humor
+print
+add|32|Artificial Condition|Martha Wells|Science Fiction
+print
+add|53|The Machine That Changed the World|James P. Womack|Non-fiction
+print
+add|39|How to Take Smart Notes|Sönke Ahrens|Non-fiction
+print
+add|22|Educated|Tara Westover|Memoir
+print
+add|4|Write Useful Books|Rob Fitzpatrick|Non-fiction
+print
+add|38|The Calculating Stars|Mary Robinette Kowal|Science Fiction
+print
+add|34|Why Fish Don't Exist|Lulu Miller|Non-fiction
+print
+add|1|Bringing Down the House|Ben Mezrich|Non-fiction
+print
+add|30|Hollow Kingdom|Kira Jane Buxton|Fantasy
+print
+add|41|All Systems Red|Martha Wells|Science Fiction
+print
+add|24|Dial A for Aunties|Jesse Q. Sutanto|Romance
+print
+add|2|Good Omens: The Nice and Accurate Prophecies of Agnes Nutter, Witch|Terry Pratchett|Fantasy
+print
+add|40|The Mathematics of Love|Hannah Fry|Non-fiction
+print
+add|48|Morning Star|Pierce Brown|Science Fiction
+print
+add|44|Dark Age|Pierce Brown|Fantasy
+print
+add|59|The Midnight Library|Matt Haig|Contemporary
+print
+add|56|Pascalian Meditations|Pierre Bourdieu|Philosopy
+print
+add|43|Zamanın En Kısa Hali|Cem Akaş|Fiction
+print
+add|26|Network Effect|Martha Wells|Science Fiction
+print
+add|25|Fugitive Telemetry|Martha Wells|Science Fiction
+print
+add|37|Godard Makinesi|Merve Yakut|Fiction
+print
+add|17|I Could Tell You But Then You Would Have to be Destroyed by Me|Trevor Paglen|Non-fiction
+print
+search|0
+search|1
+search|2
+search|3
+search|4
+search|5
+search|6
+search|7
+search|8
+search|9
+search|10
+search|11
+search|12
+search|13
+search|14
+search|15
+search|16
+search|17
+search|18
+search|19
+search|20
+search|21
+search|22
+search|23
+search|24
+search|25
+search|26
+search|27
+search|28
+search|29
+search|30
+search|31
+search|32
+search|33
+search|34
+search|35
+search|36
+search|37
+search|38
+search|39
+search|40
+search|41
+search|42
+search|43
+search|44
+search|45
+search|46
+search|47
+search|48
+search|49
+search|50
+search|51
+search|52
+search|53
+search|54
+search|55
+search|56
+search|57
+search|58
+search|59
+add|52|Axiom's End|Lindsay  Ellis|Science Fiction
+print
+add|29|Rogue Protocol|Martha Wells|Science Fiction
+print
+add|46|Iron Gold|Pierce Brown|Fantasy
+print
+add|31|Digital Minimalism|Cal Newport|Non-fiction
+print
+add|10|For We Are Many|Dennis E. Taylor|Science Fiction
+print
+add|18|The Cloisters|Katy Hays|Mystery
+print
+add|5|The Amateur's Mind|Jeremy Silman|Non-fiction
+print
+add|8|The Box|Marc Levinson|Non-fiction
+print
+add|9|All These Worlds|Dennis E. Taylor|Science Fiction
+print
+add|50|Red Rising|Pierce Brown|Science Fiction
+print
+add|51|Lost in a Good Game|Pete Etchells|Non-fiction
+print
+add|15|Grunt: The Curious Science of Humans at War|Mary Roach|History
+print
+add|27|Home: Habitat, Range, Niche, Territory|Martha Wells|Science Fiction
+print
+add|7|The Paper Menagerie and Other Stories|Ken Liu|Short Stories
+print
+add|35|Naming Nature|Carol Kaesuk Yoon|Non-fiction
+print
+add|57|Anxious People|Fredrik Backman|Contemporary
+print
+add|23|The Name of the Wind|Patrick Rothfuss|Fantasy
+print
+add|11|Heaven's River|Dennis E. Taylor|Science Fiction
+print
+add|45|Heart of a Dog|Mikhail Bulgakov|Classics
+print
+add|19|Hell Bent|Leigh Bardugo|Fantasy
+print
+add|3|Embrace Your Weird|Felicia Day|Non-fiction
+print
+add|21|Piranesi|Susanna Clarke|Fantasy
+print
+add|33|House of Earth and Blood|Sarah J. Maas|Fantasy
+print
+add|28|Exit Strategy|Martha Wells|Science Fiction
+print
+add|49|Golden Son|Pierce Brown|Science Fiction
+print
+add|55|Fashionopolis|Dana Thomas|Non-fiction
+print
+add|12|We Are Legion|Dennis E. Taylor|Science Fiction
+print
+add|54|The Mouse That Roared|Leonard Wibberley|Humor
+print
+add|20|We|Yevgeny Zamyatin|Science Fiction
+print
+add|47|Dirk Gently's Holistic Detective Agency|Douglas Adams|Science Fiction
+print
+search|0
+search|1
+search|2
+search|3
+search|4
+search|5
+search|6
+search|7
+search|8
+search|9
+search|10
+search|11
+search|12
+search|13
+search|14
+search|15
+search|16
+search|17
+search|18
+search|19
+search|20
+search|21
+search|22
+search|23
+search|24
+search|25
+search|26
+search|27
+search|28
+search|29
+search|30
+search|31
+search|32
+search|33
+search|34
+search|35
+search|36
+search|37
+search|38
+search|39
+search|40
+search|41
+search|42
+search|43
+search|44
+search|45
+search|46
+search|47
+search|48
+search|49
+search|50
+search|51
+search|52
+search|53
+search|54
+search|55
+search|56
+search|57
+search|58
+search|59
+quit
