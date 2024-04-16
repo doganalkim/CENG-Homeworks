@@ -1,0 +1,117 @@
+/> 10774
+11363
+19481
+19599
+20238
+21037
+27509
+4026
+4643
+6890
+Effervescent
+Enigmatic
+Ephemeral
+Jubilant
+Luminous
+Mellifluous
+Quixotic
+Resilient
+Serendipity
+Tranquil
+     476
+      56
+/>       23
+/>      332
+/> 10774
+11363
+19481
+19599
+20238
+21037
+27509
+4026
+4643
+6890
+Effervescent
+Enigmatic
+Ephemeral
+Jubilant
+Luminous
+Mellifluous
+Quixotic
+Resilient
+Serendipity
+Tranquil
+     228
+      33
+/> 10774
+11363
+19481
+19599
+20238
+21037
+27509
+4026
+4643
+6890
+Effervescent
+Enigmatic
+Ephemeral
+Jubilant
+Luminous
+Mellifluous
+Quixotic
+Resilient
+Serendipity
+Tranquil
+Azd
+      32
+     196
+/> Emirhan abi
+Done.
+/> Emirhan abi
+Done.
+/> Emirhan abi
+Done.
+/> EMIRHAN ABI
+Done.
+/>    1        0
+/>      599
+/> (cat input.txt | grep "c" ) | (tr /a-z/ /A-Z/ ; echo "Emirhan abi" ) | (cat | wc -l ; cat ; grep "A")
+( ls -l | tr /a-z/ /A-Z/ ; echo "Done.") | (cat ; echo "Hello"; cat input.txt) | cat |  (  cat input.txt | sort , wc -l , wc -w , wc -c , cat | wc -l , cat | wc -w, cat | wc -c)
+quitQUIXOTIC
+EFFERVESCENT
+ENIGMATIC
+Emirhan abi
+(cat input.txt | grep "c" ) | (tr /a-z/ /A-Z/ ; echo "Emirhan abi" ) | (cat | wc -l ; cat ; grep "A")
+( ls -l | tr /a-z/ /A-Z/ ; echo "Done.") | (cat ; echo "Hello"; cat input.txt) | cat |  (  cat input.txt | sort , wc -l , wc -w , wc -c , cat | wc -l , cat | wc -w, cat | wc -c)
+ENIGMATIC
+       6
+/>        4
+/> 10774
+11363
+19481
+19599
+20238
+21037
+27509
+4026
+4643
+6890
+Effervescent
+Enigmatic
+Ephemeral
+Jubilant
+Luminous
+Mellifluous
+Quixotic
+Resilient
+Serendipity
+Tranquil
+    1331
+    1331
+      43
+     204
+     204
+      43
+/> 

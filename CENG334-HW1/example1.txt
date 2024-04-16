@@ -1,0 +1,2 @@
+( cat input.txt | grep "c" ) | (tr /a-z/ /A-Z/ ; echo "Emirhan abi" ) | (cat | wc -l , cat , grep "A")
+quit

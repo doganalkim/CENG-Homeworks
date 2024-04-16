@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "headers.h": "c",
+        "scmd.h": "c",
+        "pipeline.h": "c",
+        "sequential.h": "c",
+        "subshell.h": "c"
+    }
+}
